@@ -4,7 +4,7 @@ This code editor requires you to sign up for an account.  https://earthengine.go
 I received help with this code from community members and is a collaborative effort including:
 Hamdi Zurqani - Ph.D. student at Clemson
 
-Sample script for calculation of impervious surfaces in Houston, TX.
+Sample script for calculation of impervious surfaces in Houston, TX (account required)
 https://code.earthengine.google.com/538ad4f9ef86cc5f9ae8467d700b2cdd
 
 //Adam D. Griffith   @321adam    adamdgriffith@gmail.com
