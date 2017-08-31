@@ -5,6 +5,6 @@ I received help with this code from community members and is a collaborative eff
 Hamdi Zurqani - Ph.D. student at Clemson
 
 Sample script for calculation of impervious surfaces in Houston, TX (account required)
-https://code.earthengine.google.com/538ad4f9ef86cc5f9ae8467d700b2cdd
+https://code.earthengine.google.com/54475f571532ad180abd77812487e3de
 
 //Adam D. Griffith   @321adam    adamdgriffith@gmail.com
