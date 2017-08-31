@@ -11,6 +11,7 @@ var NLCD2006 = ee.Image("USGS/NLCD/NLCD2006").clip(Houston);
 var NLCD2011 = ee.Image("USGS/NLCD/NLCD2011").clip(Houston);
 
 //Create variables Imp20xx for 2001, 2006, and 2011 pixels with imperviousness of greater than 0.50
+//This includes NLCD classes 23 (medium intensity [50-79% impervious])and 24 (high intensity >80% impervious]).
 var Imp2001 = NLCD2001.select('impervious').gte(50);
 var Imp2006 = NLCD2006.select('impervious').gte(50);
 var Imp2011 = NLCD2011.select('impervious').gte(50);
